@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Scince**
+- 🌱 I’m currently learning **Data Science **
 
 - 📫 How to reach me **maryambakr01@gmail.com**
 
 - 📄 Know about my experiences [https://t.ly/dAsj](https://t.ly/dAsj)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/maryamsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maryamsayed" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/maryamsayed01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/maryamsayed01" height="30" width="40" /></a>
