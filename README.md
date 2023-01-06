@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam</h1>
-<h3 align="center">CS student, passionate about Artificial Intelligence and Data Science from Egypt</h3>
+<h3 align="center">CS student, passionate about Artificial Intelligence and Data Science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamsayed01&label=Profile%20views&color=0e75b6&style=flat" alt="maryamsayed01" /> </p>
 
