@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 <h3 align="center">CS student, passionate about Artificial Intelligence and Data Science </h3>
 
-- 🌱 I’m currently learning **Computer Vision**
-
 - 📫 How to reach me **maryambakr01@gmail.com**
 
 - 📄 Know about my experiences [https://rb.gy/a1m996](https://rb.gy/a1m996)
@@ -18,6 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamsayed01&show_icons=true&locale=en&layout=compact" alt="maryamsayed01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamsayed01&show_icons=true&locale=en" alt="maryamsayed01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryamsayed01&" alt="maryamsayed01" /></p>
