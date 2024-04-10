@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **maryamsayed1923@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/ktQT7](https://rb.gy/a1m996](https://shorturl.at/ktQT7)
+- 📄 Know about my experiences https://shorturl.at/ktQT7
 
 <p align="left">
 <a href="https://www.linkedin.com/in/maryamsayed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maryamsayed" height="30" width="40" /></a>
